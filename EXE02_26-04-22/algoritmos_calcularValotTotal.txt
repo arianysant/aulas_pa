@@ -1,0 +1,9 @@
+Algoritmo CalculeValorPeças
+  Entre com um valor para VALOR
+  Entre com um valor para QTDE
+  Faça VT = (QTDE*VALOR)
+Fim Algoritmo
+
+Teste de Mesa
+VALOR   QTDE  VT
+ 6      2     12
