@@ -1,0 +1,17 @@
+Algoritmo SomaQuadrados
+
+  entre com um valor e atribua para n1
+  entre com um valor e atribua para n2
+  entre com um valor e atribua para n3
+  entre com um valor e atribua para n4
+  faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) = resultado_final
+  mostre o resultado_final
+
+Fimalgoritmo
+
+teste de mesa
+
+n1      n2       n3       n4       resultado_final
+2       4        16       256      65.536
+
+  
