@@ -1,0 +1,14 @@
+AlgoritmoPagamentoComissão
+
+  entre com um valor para quantidade_pecas
+  entre com um valor para o preco_pecas
+  faça quantidade_pecas*preco_pecas = valor_total
+  valor_total*0.05= comissao
+  mostre o valor_total e a comissao
+
+FimAlgoritmo
+
+Teste de mesa
+
+preco_precas    quantidade_pecas     valor_total     comissao
+ 2.5             200                  500             25,00
