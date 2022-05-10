@@ -1,0 +1,20 @@
+ AlgoritmoCustoFábrica
+
+  entre com um para custo_fabrica
+  entre com um valor para valor_impostos
+  entre com um valor para valor_distribuicao
+  faça valor_impostos <- custo_fabrica * 1.45
+  faça valor_distribuicao <- 1.28 * custo_fabrica
+  total_custo <- custo_fabrica + valor_distribuicao + valor_imposto
+  mostre total_custo
+
+FimAlgoritmo
+
+Teste de mesa
+
+custo_fabrica   valor_imposto   valor_distribuicao   custo_consumidor
+25.000           11.250          10.150               46.400
+
+
+
+  
