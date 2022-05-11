@@ -1,0 +1,20 @@
+AlgoritmoConverterHoras
+
+entre com um valor para valor_horas
+entre com um valor para valor_minutos
+faça valor_minutos = (valor_minutos/60)
+faça valor_minutos + valor_horas = valor_total
+mostre valor_total
+
+fimAlgoritmo
+
+
+teste de mesa
+
+valor_horas         valor_minutos          valor_total
+
+   3                        40                          3.67   
+   1                        32                          1.52
+   4                        23                          4.38          
+
+
