@@ -1,0 +1,9 @@
+Algoritmo Exemplo_01
+  Entre com um valor inteiro e matribua para idade
+  Se idade >= 18 entao
+    Escreva "PODE PASSAR"
+  FimSe
+
+
+
+FimAlgoritmo
